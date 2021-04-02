@@ -6,6 +6,7 @@ D E E L 1
 
 Maak een ASP.NET 5.0 Core WebAPI project. 
 Maak een lege controller aan met de naam 'GetalController'.
+
 !- MAAK EEN PUBLIEKE GIT REPOSITORY -!
 
 Zorg dat de controller de volgende methodes heeft: 
@@ -21,6 +22,7 @@ Zorg er ook voor dat wanneer de GET wordt gedaan en het bestand niet aanwezig is
 D E E L 2
 
 Maak een nieuwe controller genaamd 'GetallenController'. 
+
 !- COPY PASTE DE VORIGE CONTROLLER EN RENAME -!
 
 Zorg dat de controller de volgende methodes heeft:
