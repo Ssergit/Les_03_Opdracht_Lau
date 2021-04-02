@@ -1,5 +1,6 @@
 # Les_03_Opdracht_Lau
-Les 03 - 23/2/2021
+23/2/2021
+
 --------------------------------------------------
 D E E L 1
 
@@ -12,9 +13,10 @@ Zorg dat de controller de volgende methodes heeft:
   Get: lees het getal uit een textbestand genaamd 'getal.txt'.
   Post1: geef een getal mee en schrijf het weg naar 'getal.txt'.
   Post2: deze heeft geen parameter, schrijf een random getal weg tussen 1 en 10.
-
+  
 Alle functies geven "mooi" de statuscodes terug.
 Zorg er ook voor dat wanneer de GET wordt gedaan en het bestand niet aanwezig is, er een 404 teruggegeven wordt.
+
 --------------------------------------------------
 D E E L 2
 
